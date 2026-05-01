@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-y2wgtm.bibo.bot/sitemap.xml
